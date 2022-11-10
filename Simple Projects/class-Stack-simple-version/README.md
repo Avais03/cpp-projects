@@ -1,9 +1,9 @@
 # class Stack (simple version)
-![man and stack](https://github.com/Avais03/class-Stack-simple-version-/blob/main/for%20README/gif.webp)
+![man and stack](https://github.com/Avais03/cpp-projects/blob/boss/Simple%20Projects/class-Stack-simple-version/for%20README/gif.webp)
 
 Здесь представленна реализация простой версии шаблонного класса `stack`.
 
-![stack](https://github.com/Avais03/class-Stack-simple-version-/blob/main/for%20README/stack.webp)
+![stack](https://github.com/Avais03/cpp-projects/blob/boss/Simple%20Projects/class-Stack-simple-version/for%20README/stack.webp)
 
 <h3>Поддерживаемые запросы (для типа `Type`):</h3>
 
