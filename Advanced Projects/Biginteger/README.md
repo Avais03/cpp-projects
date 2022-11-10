@@ -36,7 +36,7 @@
 + Метод `asDecimal(sizet precision=0)`, возвращающий строковое представление числа в виде десятичной дроби с precision знаками после запятой
 + Оператор приведения к `double`
 
-<h2>autor: Vladimir Slastin🤙</h2>
+<h2>author: Vladimir Slastin🤙</h2>
 
 + [VK](https://vk.com/vovchik1902)
 + [Telegramm](https://www.t.me/SlastinVA)

@@ -43,7 +43,7 @@ ok
 1
 bye
 ```
-<h2>autor: Vladimir Slastin</h2>
+<h2>author: Vladimir Slastin</h2>
 
 + [VK](https://vk.com/vovchik1902)
 + [Telegramm](https://www.t.me/SlastinVA)
